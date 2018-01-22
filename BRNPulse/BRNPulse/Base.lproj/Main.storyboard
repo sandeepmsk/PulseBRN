@@ -107,5 +107,23 @@
             </objects>
             <point key="canvasLocation" x="874" y="9"/>
         </scene>
+        <!--SecondVC-->
+        <scene sceneID="suc-ir-0YU">
+            <objects>
+                <viewController id="zS5-ld-HpE" customClass="SecondVC" customModule="BRNPulse" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="qLB-4N-NrL"/>
+                        <viewControllerLayoutGuide type="bottom" id="AZl-a7-8SJ"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="JqA-zF-Dbc">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.0" green="0.27100000000000002" blue="0.47060000000000002" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rss-DX-Trb" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1612" y="9"/>
+        </scene>
     </scenes>
 </document>
