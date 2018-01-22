@@ -12,6 +12,7 @@
 		5C5438442015B55E00C0A7F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C5438422015B55E00C0A7F7 /* Main.storyboard */; };
 		5C5438462015B55E00C0A7F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C5438452015B55E00C0A7F7 /* Assets.xcassets */; };
 		5C5438492015B55E00C0A7F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C5438472015B55E00C0A7F7 /* LaunchScreen.storyboard */; };
+		5C5438512015C1CF00C0A7F7 /* SampleVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5438502015C1CF00C0A7F7 /* SampleVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5C5438452015B55E00C0A7F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C5438482015B55E00C0A7F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C54384A2015B55E00C0A7F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C5438502015C1CF00C0A7F7 /* SampleVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				5C54383E2015B55E00C0A7F7 /* AppDelegate.swift */,
 				5C5438402015B55E00C0A7F7 /* ViewController.swift */,
+				5C5438502015C1CF00C0A7F7 /* SampleVC.swift */,
 				5C5438422015B55E00C0A7F7 /* Main.storyboard */,
 				5C5438452015B55E00C0A7F7 /* Assets.xcassets */,
 				5C5438472015B55E00C0A7F7 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				5C5438412015B55E00C0A7F7 /* ViewController.swift in Sources */,
 				5C54383F2015B55E00C0A7F7 /* AppDelegate.swift in Sources */,
+				5C5438512015C1CF00C0A7F7 /* SampleVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +305,7 @@
 				5C54384F2015B55E00C0A7F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

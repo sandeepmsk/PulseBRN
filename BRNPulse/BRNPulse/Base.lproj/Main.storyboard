@@ -89,5 +89,23 @@
             </objects>
             <point key="canvasLocation" x="144.80000000000001" y="8.5457271364317844"/>
         </scene>
+        <!--SampleVC-->
+        <scene sceneID="LU6-m1-rpM">
+            <objects>
+                <viewController id="36H-hl-atU" customClass="SampleVC" customModule="BRNPulse" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="wxj-ne-8dh"/>
+                        <viewControllerLayoutGuide type="bottom" id="EWQ-F5-Q8H"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="dki-UB-0ly">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.40000000000000002" green="0.40000000000000002" blue="0.40000000000000002" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="JIW-rx-O6B" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="874" y="9"/>
+        </scene>
     </scenes>
 </document>
